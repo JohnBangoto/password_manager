@@ -1,0 +1,24 @@
+{
+  "name": "password_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnBangoto/password_manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JohnBangoto/password_manager/issues"
+  },
+  "homepage": "https://github.com/JohnBangoto/password_manager#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
